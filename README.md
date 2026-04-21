@@ -17,8 +17,3 @@ Data Ingestion: Robust Unix/String timestamp conversion and multi-source data me
 Feature Engineering: Calculation of Win Rates, PnL distributions, and Trade Sizes.
 Machine Learning: K-Means clustering for behavioral segmentation.
 Visualization: Detailed distribution analysis using Seaborn and Matplotlib.
-
-# How to Use
-Clone the repo: git clone https://github.com/your-username/hyperliquid-sentiment-analysis.git
-Install dependencies: pip install -r requirements.txt
-Run the notebook to reproduce the results.
